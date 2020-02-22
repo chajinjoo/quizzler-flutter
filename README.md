@@ -1,5 +1,3 @@
-<img width="350" alt="퀴즈앱완성본" src="https://user-images.githubusercontent.com/55340876/75098412-3bfee680-55f9-11ea-83be-89e7d18aa086.gif">
-
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
@@ -37,3 +35,9 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+## Completed
+
+<img width="350" alt="퀴즈앱완성본" src="https://user-images.githubusercontent.com/55340876/75098412-3bfee680-55f9-11ea-83be-89e7d18aa086.gif">
+
+
